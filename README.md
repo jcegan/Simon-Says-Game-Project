@@ -31,9 +31,9 @@ Installation:
 -Clone the repository to your local machine:
 
 -Copy
-git clone https://github.com/yourusername/simon-says-game.git
+git clone https://github.com/jcegan/Simon-Says-Game-Project.git
 Navigate into the project directory:
 
 -Copy
 cd simon-says-game
-Open index.html in your browser to play the game.
+Open Simon Says.html in your browser to play the game.
